@@ -7,4 +7,8 @@ In conventional regression (e.g., simple linear regression), there are some simp
  
  ![](https://github.com/kaveh7293/EVM-based-Regression/blob/main/Screenshot%202022-06-26%20143650.png)(2)
 
-In obtaining the above objective function, we assumed that measurements corresponding to the inputs are perfectly known (i.e., can be measured without error). However, in situations where inputs uncertainites are relatively large, parameter estimates obtained from minimizing the above objective function is bias. In this situation, a more-accurate objective function can be obtained using maximum-likelihood arguments based on the EVM equations. In this situation an
+In obtaining the above objective function, we assumed that measurements corresponding to the inputs are perfectly known (i.e., can be measured without error). However, in situations where inputs uncertainites are relatively large, parameter estimates obtained from minimizing the above objective function is bias. In this situation, a more-accurate objective function can be obtained using maximum-likelihood arguments based on the EVM equations. In this situation, equation (1) should be extended to accounts for errors in uncertain inputs:
+
+                                                                Y=g(x,u,θ)+ϵ    (3)
+                                                                     U=u+ϵ_U (4)
+
