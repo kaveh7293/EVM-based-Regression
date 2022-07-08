@@ -14,7 +14,7 @@ where ϵy and ϵu are the random measurement noises for the model outputs and un
 
 <p align="center"><img src="https://github.com/kaveh7293/EVM-based-Regression/blob/main/Screenshot%202022-07-08%20142541.png"  width="360"></p>
 
-where ![formula](https://render.githubusercontent.com/render/math?math=\sigma^{2}) and 
+where ![formula](https://render.githubusercontent.com/render/math?math=\sigma^{2}_y) and 
 
 
  
