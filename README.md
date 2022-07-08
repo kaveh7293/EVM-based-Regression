@@ -12,5 +12,8 @@ In obtaining the above objective function, we assumed that measurements correspo
                                                                 Y=g(x,u,θ)+ϵy    (3)
                                                                      U=u+ϵu      (4)
                                                                      
-where ϵy and ϵu are the random measurement noises for the model outputs and uncertain inputs, respectively.
+where ϵy and ϵu are the random measurement noises for the model outputs and uncertain inputs, respectively. Likewise, using a maximum likelihood argument, the EVM-based objective function can be obtained:
+![](https://github.com/kaveh7293/EVM-based-Regression/blob/main/Screenshot%202022-07-08%20142541.png)
+
+
  
