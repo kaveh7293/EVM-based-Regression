@@ -1,4 +1,4 @@
-# Overview
+# Overview of my publication titled: Estimation of output measurement variances for error-in-variables model parameter estimation
 
 In conventional regression (e.g., simple linear regression), there are some simplifying assumptions. For example, consider the following single-input single-output model:
    
