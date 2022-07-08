@@ -14,7 +14,7 @@ where ϵy and ϵu are the random measurement noises for the model outputs and un
 
 <p align="center"><img src="https://github.com/kaveh7293/EVM-based-Regression/blob/main/Screenshot%202022-07-08%20142541.png"  width="360"></p>
 
-where ![formula](https://render.githubusercontent.com/render/math?math=\sigma_y^2) and ![formula](https://render.githubusercontent.com/render/math?math=\sigma_u^2) are the measurement variances for the outputs and inputs, respectively.
+where ![formula](https://render.githubusercontent.com/render/math?math=\sigma_y^2) and ![formula](https://render.githubusercontent.com/render/math?math=\sigma_u^2) are the measurement variances for the outputs and inputs, respectively. Minimizing the objective function in equation (5) results in estimates for parameters and true values of uncertain inputs ![formula](https://render.githubusercontent.com/render/math?math=u_i).  
 
 
  
